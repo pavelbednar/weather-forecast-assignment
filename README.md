@@ -13,7 +13,7 @@ Create a weather forecast application showing forecast for selected city for nex
 *	Single Page Application
 *	Source code written in typescript
 *	Application will store data in redux
-*	Application will consume REST API of [Open Weather Map]([url](https://openweathermap.org/api)) (we provide API key)
+*	Application will consume REST API of [Open Weather Map](https://openweathermap.org/api) (we provide API key)
 •	Application will use redux-saga (preferably) or redux-thunk for handling API comunications
 •	Autocomplete/whisperer can use of a predefined city list (available at [here](https://github.com/pavelbednar/weather-forecast-assignment/blob/main/city.list.json))
 
