@@ -17,8 +17,8 @@ Create a weather forecast application showing forecast for selected city for nex
 •	Application will use redux-saga (preferably) or redux-thunk for handling API comunications
 •	Autocomplete/whisperer can use of a predefined city list (available at [here](https://github.com/pavelbednar/weather-forecast-assignment/blob/main/city.list.json))
 
-Bonus Task
-•	Styles in LESS or SASS
-•	Forecast in form of a chart
-•	Use browser’s geolocation api to set initial data in app.
+## Bonus Task
+*	Styles in LESS or SASS
+*	Forecast in form of a chart
+*	Use browser’s geolocation api to set initial data in app.
 
